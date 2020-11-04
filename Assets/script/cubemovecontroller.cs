@@ -7,7 +7,7 @@ public class cubemovecontroller : MonoBehaviour
     //move speed
     float forwardSpeed = 10.0f;
     float zlimit = 27.5f;
-    float zlimit2 = -1f;
+    float zlimit2 = -0.9f;
     bool reachz = false;
     public GameObject Player;
     // Start is called before the first frame update
